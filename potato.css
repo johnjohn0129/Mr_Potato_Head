@@ -23,6 +23,10 @@ h1 {
 }
 /* Insert CSS for arms below this line*/
 
+#arms_image {
+  top: 150px;
+  left: 42px;
+}
 
 
 
